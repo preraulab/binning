@@ -1,8 +1,9 @@
 API Reference
 =============
 
-.. mat:module:: .
+.. toctree::
+   :maxdepth: 1
 
-.. mat:autofunction:: create_bins
-.. mat:autofunction:: create_NDbins
-.. mat:autofunction:: hist_slide
+   api/create_bins
+   api/create_NDbins
+   api/hist_slide
