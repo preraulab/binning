@@ -29,7 +29,6 @@ function [NDbin_edges, NDbin_centers, NDbin_coords, bin_edges, bin_centers] = cr
 %   See also: create_bins, hist_slide
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin==0
     run_demo();

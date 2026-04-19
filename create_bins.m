@@ -23,7 +23,6 @@ function [bin_edges, bin_centers] = create_bins(bin_range, bin_width, bin_step, 
 %   See also: create_NDbins, hist_slide
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin<4 || isempty(bin_method)
     bin_method = 'full';

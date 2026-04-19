@@ -24,7 +24,6 @@ function [NDhist, bin_edges, bin_centers] = hist_slide(data, varargin)
 %   See also: create_bins, create_NDbins
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 %Demo data
 if nargin == 0
