@@ -2,7 +2,7 @@
 
 Bin values or events onto regular grids, in 1-D or N-D, with fixed edges or a sliding window.
 
-Part of the Prerau Lab [`utils`](https://github.com/preraulab/utils) meta-repository. Can also be used standalone.
+Part of the Prerau Lab [`preraulab_utilities`](https://github.com/preraulab/preraulab_utilities) meta-repository. Can also be used standalone.
 
 ## When to use which
 
@@ -42,7 +42,7 @@ See `help <function>` at the MATLAB prompt for the full docstring of each.
 addpath('/path/to/binning');
 ```
 
-When used as part of a larger toolbox (e.g. `utils`), the top-level path setup handles this automatically.
+When used as part of a larger toolbox (e.g. `preraulab_utilities`), the top-level path setup handles this automatically.
 
 ## Dependencies
 
