@@ -42,7 +42,7 @@ See `help <function>` at the MATLAB prompt for the full docstring of each.
 addpath('/path/to/binning');
 ```
 
-When used as part of `utils` or `labcode_main`, the top-level path setup handles this automatically.
+When used as part of a larger toolbox (e.g. `utils`), the top-level path setup handles this automatically.
 
 ## Dependencies
 
